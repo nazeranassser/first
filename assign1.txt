@@ -1,0 +1,12 @@
+1- Whats the difference between Div and Section?
+
+<div> is a generic container used for layout and styling purposes without any semantic meaning.
+
+<section> is a semantic element used to define thematic groupings of content within a document.
+
+
+2- Whats the difference between Article and P?
+
+<p> is for individual paragraphs of text.
+
+<article> is for self-contained, reusable content like blog posts or articles.
